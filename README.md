@@ -10,4 +10,4 @@ este projeto foi desenvolvido com:  HTML5 - CSS3 - JAVASCRIPT - BOOTSTRAP<br>
 <br><br> 
 E aqui está a URL do site para navegar neste projeto!
 
-https://nikel-codai2-0-lhbcix096-renass21.vercel.app/
+https://nikel-codai2-0.vercel.app/
